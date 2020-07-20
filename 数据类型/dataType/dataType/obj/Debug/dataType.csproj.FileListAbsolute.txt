@@ -1,0 +1,7 @@
+C:\Users\17842\Code\C#\数据类型\dataType\dataType\bin\Debug\dataType.exe.config
+C:\Users\17842\Code\C#\数据类型\dataType\dataType\bin\Debug\dataType.exe
+C:\Users\17842\Code\C#\数据类型\dataType\dataType\bin\Debug\dataType.pdb
+C:\Users\17842\Code\C#\数据类型\dataType\dataType\obj\Debug\dataType.csprojAssemblyReference.cache
+C:\Users\17842\Code\C#\数据类型\dataType\dataType\obj\Debug\dataType.csproj.CoreCompileInputs.cache
+C:\Users\17842\Code\C#\数据类型\dataType\dataType\obj\Debug\dataType.exe
+C:\Users\17842\Code\C#\数据类型\dataType\dataType\obj\Debug\dataType.pdb
