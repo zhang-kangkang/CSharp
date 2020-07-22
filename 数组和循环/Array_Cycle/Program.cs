@@ -11,7 +11,7 @@ namespace Array_Cycle
         static void Main(string[] args)
         {
             // 定义数组
-            int[] a = new int[100];
+            int[] a = new int[20];
             //a[0] = a[1] = 1;
 
             // for循环，斐波那契数列
@@ -23,46 +23,41 @@ namespace Array_Cycle
 
             // 创建随机数
             var r = new Random();
-            for (int i = 0; i <= 20; i++)
+            for (int i = 0; i < 20; i++)
             {
                 a[i] = r.Next(20);
                 Console.WriteLine(a[i]);
             }
 
             // 获取前两个最大的值
-            int top1 = a[0] , top2=a[0];
-            for(int i = 1; i <= 20; i ++)
-            {
-                if (a[i] < top2)
-                {
-                    continue;
-                }
-                if (a[i] > top1)
-                {
-                    top2 = top1;
-                    top1 = a[i];
-                }
-                else
-                {
-                    top2 = a[i];
-                }
-            }
-            Console.WriteLine("top1:"+ top1);
-            Console.WriteLine("top2:" + top2);
+            //int top1 = a[0], top2 = a[0];
+            //for (int i = 1; i <= 20; i++)
+            //{
+            //    if (a[i] < top2)
+            //    {
+            //        continue;
+            //    }
+            //    if (a[i] > top1)
+            //    {
+            //        top2 = top1;
+            //        top1 = a[i];
+            //    }
+            //    else
+            //    {
+            //        top2 = a[i];
+            //    }
+            //}
+            //Console.WriteLine("top1:" + top1);
+            //Console.WriteLine("top2:" + top2);
 
             // foreach循环
-            //foreach (int i in a)
-            //{
-            //    if (i > 20)
-            //    {
-            //        return;
-            //    }
-            //    if (i > 1) {
-            //        a[i] = a[i - 1] + a[i - 2];
-            //        Console.WriteLine(a[i]);
-            //    }
+            Console.WriteLine("foreach");
+            foreach (int ele in a)
+            {
+                Console.WriteLine(ele);
+            }
 
-            //}
         }
+        
     }
 }

@@ -5,3 +5,5 @@ C:\Users\17842\Code\C#\运算符和分支结构\ConsoleApp1\ConsoleApp1\obj\Debu
 C:\Users\17842\Code\C#\运算符和分支结构\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\17842\Code\C#\运算符和分支结构\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\17842\Code\C#\运算符和分支结构\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Eric\Desktop\GamePlay\CSharp\运算符和分支结构\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Eric\Desktop\GamePlay\CSharp\运算符和分支结构\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -5,3 +5,10 @@ C:\Users\17842\Code\C#\Array_Cycle\Array_Cycle\obj\Debug\Array_Cycle.csprojAssem
 C:\Users\17842\Code\C#\Array_Cycle\Array_Cycle\obj\Debug\Array_Cycle.csproj.CoreCompileInputs.cache
 C:\Users\17842\Code\C#\Array_Cycle\Array_Cycle\obj\Debug\Array_Cycle.exe
 C:\Users\17842\Code\C#\Array_Cycle\Array_Cycle\obj\Debug\Array_Cycle.pdb
+C:\Users\Eric\Desktop\GamePlay\CSharp\数组和循环\Array_Cycle\obj\Debug\Array_Cycle.exe
+C:\Users\Eric\Desktop\GamePlay\CSharp\数组和循环\Array_Cycle\obj\Debug\Array_Cycle.pdb
+C:\Users\Eric\Desktop\GamePlay\CSharp\数组和循环\Array_Cycle\bin\Debug\Array_Cycle.exe.config
+C:\Users\Eric\Desktop\GamePlay\CSharp\数组和循环\Array_Cycle\bin\Debug\Array_Cycle.exe
+C:\Users\Eric\Desktop\GamePlay\CSharp\数组和循环\Array_Cycle\bin\Debug\Array_Cycle.pdb
+C:\Users\Eric\Desktop\GamePlay\CSharp\数组和循环\Array_Cycle\obj\Debug\Array_Cycle.csprojAssemblyReference.cache
+C:\Users\Eric\Desktop\GamePlay\CSharp\数组和循环\Array_Cycle\obj\Debug\Array_Cycle.csproj.CoreCompileInputs.cache
