@@ -1,0 +1,7 @@
+C:\Users\17842\Desktop\GamePlay\CSharp\复杂数据类型\Enum\bin\Debug\Enum.exe.config
+C:\Users\17842\Desktop\GamePlay\CSharp\复杂数据类型\Enum\bin\Debug\Enum.exe
+C:\Users\17842\Desktop\GamePlay\CSharp\复杂数据类型\Enum\bin\Debug\Enum.pdb
+C:\Users\17842\Desktop\GamePlay\CSharp\复杂数据类型\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\17842\Desktop\GamePlay\CSharp\复杂数据类型\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\17842\Desktop\GamePlay\CSharp\复杂数据类型\Enum\obj\Debug\Enum.exe
+C:\Users\17842\Desktop\GamePlay\CSharp\复杂数据类型\Enum\obj\Debug\Enum.pdb
