@@ -1,0 +1,7 @@
+C:\Users\17842\Code\CSharp\调试\Debug\bin\Debug\Debug.exe.config
+C:\Users\17842\Code\CSharp\调试\Debug\bin\Debug\Debug.exe
+C:\Users\17842\Code\CSharp\调试\Debug\bin\Debug\Debug.pdb
+C:\Users\17842\Code\CSharp\调试\Debug\obj\Debug\Debug.csprojAssemblyReference.cache
+C:\Users\17842\Code\CSharp\调试\Debug\obj\Debug\Debug.csproj.CoreCompileInputs.cache
+C:\Users\17842\Code\CSharp\调试\Debug\obj\Debug\Debug.exe
+C:\Users\17842\Code\CSharp\调试\Debug\obj\Debug\Debug.pdb
