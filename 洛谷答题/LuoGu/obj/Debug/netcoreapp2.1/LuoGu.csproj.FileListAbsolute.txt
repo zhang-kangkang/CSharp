@@ -1,0 +1,11 @@
+C:\Users\Eric\Desktop\GamePlay\CSharp\洛谷答题\LuoGu\bin\Debug\netcoreapp2.1\LuoGu.deps.json
+C:\Users\Eric\Desktop\GamePlay\CSharp\洛谷答题\LuoGu\bin\Debug\netcoreapp2.1\LuoGu.runtimeconfig.json
+C:\Users\Eric\Desktop\GamePlay\CSharp\洛谷答题\LuoGu\bin\Debug\netcoreapp2.1\LuoGu.runtimeconfig.dev.json
+C:\Users\Eric\Desktop\GamePlay\CSharp\洛谷答题\LuoGu\bin\Debug\netcoreapp2.1\LuoGu.dll
+C:\Users\Eric\Desktop\GamePlay\CSharp\洛谷答题\LuoGu\bin\Debug\netcoreapp2.1\LuoGu.pdb
+C:\Users\Eric\Desktop\GamePlay\CSharp\洛谷答题\LuoGu\obj\Debug\netcoreapp2.1\LuoGu.csprojAssemblyReference.cache
+C:\Users\Eric\Desktop\GamePlay\CSharp\洛谷答题\LuoGu\obj\Debug\netcoreapp2.1\LuoGu.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\GamePlay\CSharp\洛谷答题\LuoGu\obj\Debug\netcoreapp2.1\LuoGu.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\GamePlay\CSharp\洛谷答题\LuoGu\obj\Debug\netcoreapp2.1\LuoGu.AssemblyInfo.cs
+C:\Users\Eric\Desktop\GamePlay\CSharp\洛谷答题\LuoGu\obj\Debug\netcoreapp2.1\LuoGu.dll
+C:\Users\Eric\Desktop\GamePlay\CSharp\洛谷答题\LuoGu\obj\Debug\netcoreapp2.1\LuoGu.pdb
