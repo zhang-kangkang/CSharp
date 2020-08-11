@@ -1,0 +1,11 @@
+C:\Users\17842\Desktop\GamePlay\CSharp\文件\File\bin\Debug\netcoreapp2.1\File.deps.json
+C:\Users\17842\Desktop\GamePlay\CSharp\文件\File\bin\Debug\netcoreapp2.1\File.runtimeconfig.json
+C:\Users\17842\Desktop\GamePlay\CSharp\文件\File\bin\Debug\netcoreapp2.1\File.runtimeconfig.dev.json
+C:\Users\17842\Desktop\GamePlay\CSharp\文件\File\bin\Debug\netcoreapp2.1\File.dll
+C:\Users\17842\Desktop\GamePlay\CSharp\文件\File\bin\Debug\netcoreapp2.1\File.pdb
+C:\Users\17842\Desktop\GamePlay\CSharp\文件\File\obj\Debug\netcoreapp2.1\File.csprojAssemblyReference.cache
+C:\Users\17842\Desktop\GamePlay\CSharp\文件\File\obj\Debug\netcoreapp2.1\File.csproj.CoreCompileInputs.cache
+C:\Users\17842\Desktop\GamePlay\CSharp\文件\File\obj\Debug\netcoreapp2.1\File.AssemblyInfoInputs.cache
+C:\Users\17842\Desktop\GamePlay\CSharp\文件\File\obj\Debug\netcoreapp2.1\File.AssemblyInfo.cs
+C:\Users\17842\Desktop\GamePlay\CSharp\文件\File\obj\Debug\netcoreapp2.1\File.dll
+C:\Users\17842\Desktop\GamePlay\CSharp\文件\File\obj\Debug\netcoreapp2.1\File.pdb
