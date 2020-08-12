@@ -12,3 +12,10 @@ C:\Users\Eric\Desktop\GamePlay\CSharp\方法和参数\FucData\obj\Debug\FucData.
 C:\Users\Eric\Desktop\GamePlay\CSharp\方法和参数\FucData\obj\Debug\FucData.csproj.CoreCompileInputs.cache
 C:\Users\Eric\Desktop\GamePlay\CSharp\方法和参数\FucData\obj\Debug\FucData.exe
 C:\Users\Eric\Desktop\GamePlay\CSharp\方法和参数\FucData\obj\Debug\FucData.pdb
+C:\Users\17842\Desktop\GamePlay\CSharp\方法和参数\FucData\obj\Debug\FucData.csprojAssemblyReference.cache
+C:\Users\17842\Desktop\GamePlay\CSharp\方法和参数\FucData\obj\Debug\FucData.csproj.CoreCompileInputs.cache
+C:\Users\17842\Desktop\GamePlay\CSharp\方法和参数\FucData\obj\Debug\FucData.exe
+C:\Users\17842\Desktop\GamePlay\CSharp\方法和参数\FucData\obj\Debug\FucData.pdb
+C:\Users\17842\Desktop\GamePlay\CSharp\方法和参数\FucData\bin\Debug\FucData.exe.config
+C:\Users\17842\Desktop\GamePlay\CSharp\方法和参数\FucData\bin\Debug\FucData.exe
+C:\Users\17842\Desktop\GamePlay\CSharp\方法和参数\FucData\bin\Debug\FucData.pdb
