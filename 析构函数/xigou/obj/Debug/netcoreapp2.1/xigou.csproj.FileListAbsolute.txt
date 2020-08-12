@@ -1,0 +1,11 @@
+C:\Users\Eric\Desktop\GamePlay\CSharp\析构函数\xigou\obj\Debug\netcoreapp2.1\xigou.csprojAssemblyReference.cache
+C:\Users\Eric\Desktop\GamePlay\CSharp\析构函数\xigou\obj\Debug\netcoreapp2.1\xigou.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\GamePlay\CSharp\析构函数\xigou\obj\Debug\netcoreapp2.1\xigou.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\GamePlay\CSharp\析构函数\xigou\obj\Debug\netcoreapp2.1\xigou.AssemblyInfo.cs
+C:\Users\Eric\Desktop\GamePlay\CSharp\析构函数\xigou\bin\Debug\netcoreapp2.1\xigou.deps.json
+C:\Users\Eric\Desktop\GamePlay\CSharp\析构函数\xigou\bin\Debug\netcoreapp2.1\xigou.runtimeconfig.json
+C:\Users\Eric\Desktop\GamePlay\CSharp\析构函数\xigou\bin\Debug\netcoreapp2.1\xigou.runtimeconfig.dev.json
+C:\Users\Eric\Desktop\GamePlay\CSharp\析构函数\xigou\bin\Debug\netcoreapp2.1\xigou.dll
+C:\Users\Eric\Desktop\GamePlay\CSharp\析构函数\xigou\bin\Debug\netcoreapp2.1\xigou.pdb
+C:\Users\Eric\Desktop\GamePlay\CSharp\析构函数\xigou\obj\Debug\netcoreapp2.1\xigou.dll
+C:\Users\Eric\Desktop\GamePlay\CSharp\析构函数\xigou\obj\Debug\netcoreapp2.1\xigou.pdb
