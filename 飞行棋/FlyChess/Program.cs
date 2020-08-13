@@ -13,7 +13,7 @@ namespace FlyChess
         static int player2 = 0;
         static string name2;
         static int currentPlayer = 0;
-        static int[] maps = new int[100];   
+        static int[] maps = new int[100];   //数组初始值是0
 
 
         static void Main(string[] args)
