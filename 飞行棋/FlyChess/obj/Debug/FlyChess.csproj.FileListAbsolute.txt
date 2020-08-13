@@ -5,3 +5,10 @@ C:\Users\17842\Code\CSharp\飞行棋\FlyChess\obj\Debug\FlyChess.csprojAssemblyR
 C:\Users\17842\Code\CSharp\飞行棋\FlyChess\obj\Debug\FlyChess.csproj.CoreCompileInputs.cache
 C:\Users\17842\Code\CSharp\飞行棋\FlyChess\obj\Debug\FlyChess.exe
 C:\Users\17842\Code\CSharp\飞行棋\FlyChess\obj\Debug\FlyChess.pdb
+C:\Users\Eric\Desktop\GamePlay\CSharp\飞行棋\FlyChess\bin\Debug\FlyChess.exe.config
+C:\Users\Eric\Desktop\GamePlay\CSharp\飞行棋\FlyChess\bin\Debug\FlyChess.exe
+C:\Users\Eric\Desktop\GamePlay\CSharp\飞行棋\FlyChess\bin\Debug\FlyChess.pdb
+C:\Users\Eric\Desktop\GamePlay\CSharp\飞行棋\FlyChess\obj\Debug\FlyChess.csprojAssemblyReference.cache
+C:\Users\Eric\Desktop\GamePlay\CSharp\飞行棋\FlyChess\obj\Debug\FlyChess.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\GamePlay\CSharp\飞行棋\FlyChess\obj\Debug\FlyChess.exe
+C:\Users\Eric\Desktop\GamePlay\CSharp\飞行棋\FlyChess\obj\Debug\FlyChess.pdb
