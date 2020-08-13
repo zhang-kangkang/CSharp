@@ -29,13 +29,25 @@ namespace Enum
 
         static void Main(string[] args)
         {
-            State state = State.online;
+            //State state = State.online;
+            //Console.WriteLine(state);
+            //int n = (int)state;
+            // 枚举转int
+            //Console.WriteLine((int)State.busy);     //5
+            // int转枚举
+            //Console.WriteLine((State)2);    //online
+            //Console.WriteLine((State)5);    //busy
+
+            //string转enum
+            //string str = "online666";
+            //State state =  (State)State.Parse(typeof(State), str);
+            //Console.WriteLine(state);
+
+            //应用
+            Console.Write("请输入您的在线状态:");
+            string input = Console.ReadLine();
+            State state = (State)State.Parse(typeof(State), input);
             Console.WriteLine(state);
-            int n = (int)state;
-            Console.WriteLine(n);   //2
-            Console.WriteLine((int)State.busy);     //5
-            Console.WriteLine((State)2);    //online
-            Console.WriteLine((State)5);    //busy
 
 
 

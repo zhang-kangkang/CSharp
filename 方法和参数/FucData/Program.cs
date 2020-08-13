@@ -10,7 +10,7 @@ namespace FucData
     {
         
 
-        static void Main(string[] args)
+        static void _Main(string[] args)
         {
             // 调用其他cs的方法
             //Class1.GetClass1();
